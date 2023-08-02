@@ -1,0 +1,15 @@
+sc : single crochet
+blo : back loops only
+
+start with black
+row 1 : make a slipknot and chain 20,
+row 2-3 : 19sc, chain 1 and turn,
+row 4 : 2sc in black, 6sc in white, 3sc in black, 2sc in white, 6sc in black, chain 1 and turn,
+row 5 : 6sc in black, 2sc in white, 3sc in black, 2sc in white, (4sc blo, 2sc) in black, chain 1 and turn,
+row 6 : 6sc in black, 2sc in white, 3sc in black, 5sc in white, 3sc in black, chain 1 and turn,
+row 7 : 2sc in black, (1sc blo, 5sc) in white, (3sc blo, 1sc) in black, (1sc, 3sc blo) in white, 3sc in black, chain 1 and turn,
+row 8 : 2sc in black, 2sc in white, 6sc in black, 2sc in white, 2sc in black, 2sc in white, 2sc in black, chain 1 and turn,
+row 9 : 2sc in black, 2sc in white, 2sc in black, 2sc in white, 6sc in black, 2sc in white, 2sc in black, chain 1 and turn,
+row 10 : 2sc in black, 6sc in white, 3sc in black, 2sc in white, 2sc in black, 2sc in whitem 2sc in black, chain 1 and turn,
+row 11 : (2sc, 2sc blo, 2sc, 2sc blo, 3sc, 6sc blo, 2sc) in black, chain 1 and turn,
+row 12 : 19sc and make a slip stitch in black,
