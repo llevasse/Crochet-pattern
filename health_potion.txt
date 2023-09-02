@@ -1,0 +1,12 @@
+1 : 6sc into mc (6st)
+2 : inc*6 (12st)
+3 : (1sc, inc)*6 (18st)
+4 : (2sc, inc)*6 (24st)
+5 : (3sc, inc)*6 (30st)
+6 : (4sc, inc)*6 (36st)
+7-12 : 36sc (36st)
+13 : (4sc, dec)*6 (30st)
+14 : (3sc, dec)*6 (24st)
+15 : (2sc, dec)*6 (18st)
+16 : (1sc, dec)*6 (12st)
+
