@@ -1,3 +1,4 @@
+using the colour you would like the "liquid" to be, let's say red for a pretty health potion
 1 : 6sc into mc (6st)
 2 : inc*6 (12st)
 3 : (1sc, inc)*6 (18st)
@@ -8,5 +9,16 @@
 13 : (4sc, dec)*6 (30st)
 14 : (3sc, dec)*6 (24st)
 15 : (2sc, dec)*6 (18st)
+{you can start the filling right now, I like my potions to be very solid so I stuff them as much as I can but feel free to make them more soft}
 16 : (1sc, dec)*6 (12st)
-
+// now it really depend on how long you would like the neck to be, I like it to be 4 row long but feel free to try things out and modify as you like
+17-18 : 12sc (12st)
+Change to white yarn (you can cut off the red yarn leaving a little tail inside the potion)
+19-20 : 12sc (12st)
+Change to brown yarn (you can cut off the white yarn leaving a little tail inside the potion)
+21 : {this round is worked in the front loop only} (1hdc, hdc inc)*6 (18st)
+22 : {this round is worked in the back loop only} 18sc (18st)
+23 : 18sc (18st)
+24 : {this round is worked in the back loop only} (1hdc, hdc dec)*6 (12st)
+25 : 6dec (6st)
+You can cut the yarn and fasten off your work
