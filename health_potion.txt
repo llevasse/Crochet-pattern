@@ -1,4 +1,8 @@
-using the colour you would like the "liquid" to be, let's say red for a pretty health potion
+Feel free to adapt this pattern to your needs, what works for me might not work for you :0
+
+Potion :
+
+Using the colour you would like the "liquid" to be, let's say red for a pretty health potion
 1 : 6sc into mc (6st)
 2 : inc*6 (12st)
 3 : (1sc, inc)*6 (18st)
@@ -22,3 +26,20 @@ Change to brown yarn (you can cut off the white yarn leaving a little tail insid
 24 : {this round is worked in the back loop only} (1hdc, hdc dec)*6 (12st)
 25 : 6dec (6st)
 You can cut the yarn and fasten off your work
+
+Mesh bag : 
+(again, this part really need to be adapted to your wants, I like mine to be very tight around the potion, if that's not what you want, a couple of chaines whenever)
+
+Using brown yarn
+1 : 6sc into mc (6st)
+2 : inc*6 (12st)
+3 : (1sc, inc)*6 (18st)
+4 : ch3(to make a false dc) ch3, dc on the third stich of round 3, (ch3, dc on the third stich after your previous dc)*4, ch3 and slip stich in the third chain of the false dc 
+5 : ch3(to make a false dc) ch4, dc in the dc of the previous round, (ch4, dc in the dc of the previous round)*4, ch4 and slip stich in the third chain of the false dc 
+(if you want it to be tight I would advise to alread put the mesh around the potion (bottom of the potion to the centre of the mv of rd 1) and put needle to prevent the stichs to move)
+6 : ch4(to make a false tc) ch4, tc in the dc of the previous round, (ch4, tc in the dc of the previous round)*4, ch4 and slip stich in the fourth chain of the false tc 
+7 : ch3(to make a false dc) ch2, dc in the tc of the previous round, (ch2, dc in the tc of the previous round)*4, ch2 and slip stich in the third chain of the false dc
+8 : ch64 and slip stich in the first dc of round 7
+slipt stich again to avoid any bad surprise, cut the yarn leaving a tail and fasten of any loose end.
+
+and you should have a pretty potion :D
