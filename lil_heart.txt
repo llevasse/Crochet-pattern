@@ -1,0 +1,3 @@
+magic circle
+
+ch3, tc3, dc3, ch1, tc, ch1, dc3, tc3, ch3, sl st
