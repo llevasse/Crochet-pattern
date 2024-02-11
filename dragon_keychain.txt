@@ -1,1 +1,4 @@
 rnd 1 : magic ring, sc6
+rnd 2 : incr6
+rnd 3 : (sc, incr)6
+rnd 4 : (2sc, incr)6
