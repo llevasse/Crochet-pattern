@@ -2,3 +2,7 @@ rnd 1 : magic ring, sc6
 rnd 2 : incr6
 rnd 3 : (sc, incr)6
 rnd 4 : (2sc, incr)6
+rnd 5 : 8sc, 1popcorn stitch, 6sc, 1popcorn stitch, 8sc
+rnd 6 : 8sc, 1sc in 3rd dc of popcorn, 1sc after popcorn, switch colour, 4sc, switch colour, 1sc, 1sc in 3rd dc of popcorn, 8sc after popcorn
+rnd 7 : 9sc, switch colour, 6sc, switch colour, 9sc
+rnd 8 : 6sc, 1popcorn, , 2sc, switch colour, 6sc, switch colour, 2sc, 1popcorn, 6sc
