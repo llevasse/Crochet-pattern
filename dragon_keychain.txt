@@ -6,3 +6,8 @@ rnd 5 : 8sc, 1popcorn stitch, 6sc, 1popcorn stitch, 8sc
 rnd 6 : 8sc, 1sc in 3rd dc of popcorn, 1sc after popcorn, switch colour, 4sc, switch colour, 1sc, 1sc in 3rd dc of popcorn, 8sc after popcorn
 rnd 7 : 9sc, switch colour, 6sc, switch colour, 9sc
 rnd 8 : 6sc, 1popcorn, , 2sc, switch colour, 6sc, switch colour, 2sc, 1popcorn, 6sc
+rnd 9 : 6sc, 1sc in 3rd dc of pc, 2sc, switch, 6sc, switch, 2sc, 1sc in 3rd dc of pc, 6sc
+rnd 10 : (sc, dec)3, switch, (sc, dec)2, switch, (sc, dec)3
+rnd 11 : front loop only [6sc, (3sc in the same stitch)4, 6sc]
+rnd 12 : (sc, int)12
+rnd 13-15 : 36sc
