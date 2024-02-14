@@ -27,4 +27,21 @@ tail :
 	rnd 3 : 6sc
 	rnd 4 : (2sc, incr)3
 	rnd 5 : 12sc
+	rnd 6 : (3sc, incr)3
+	rnd 7 : 11sc, 4inc
+	cut the yarn
 
+ears x2:
+	slipknot and chain 3
+	2dcm 2ch, ss in lst chain
+
+horns x2 :
+	slip knot, chain 4
+	from 2nd chain, ss, sc, hdc
+
+wings x2 :
+	slipknot, chain 9
+	rnd 1 : from 2nd chain, 8hdc
+	rnd 2 : 1ch and turn, blo 5sc
+	rnd 3 : 1ch and turn, blo 5sc
+	rnd 4 : 1ch and turn, blo 2hdc, 2chain and ss in next stitch
